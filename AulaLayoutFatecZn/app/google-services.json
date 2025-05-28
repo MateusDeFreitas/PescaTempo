@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30320721489",
+    "project_id": "apppescatempo",
+    "storage_bucket": "apppescatempo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30320721489:android:6b67ea39ea7359fa0e8270",
+        "android_client_info": {
+          "package_name": "com.example.aulalayoutfateczn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQowSlJdLNA-X3dCN_bLgVW6NhSBpJxiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
